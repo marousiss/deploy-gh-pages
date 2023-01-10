@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marousiss/deploy-gh-pages/static/css/main.c2cab247.css",
+    "main.js": "/marousiss/deploy-gh-pages/static/js/main.76bdb916.js",
+    "index.html": "/marousiss/deploy-gh-pages/index.html",
+    "main.c2cab247.css.map": "/marousiss/deploy-gh-pages/static/css/main.c2cab247.css.map",
+    "main.76bdb916.js.map": "/marousiss/deploy-gh-pages/static/js/main.76bdb916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.76bdb916.js"
+  ]
+}
